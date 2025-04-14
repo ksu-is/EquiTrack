@@ -9,6 +9,6 @@ Sprint 2:
 - [x] Make the first edits to my code
 
 Sprint 3:
-Put the final touches on my code
-Finish my read.me document
-Report/fix any issues with my final code
+- [ ] Put the final touches on my code
+- [ ] Finish my read.me document
+- [ ] Report/fix any issues with my final code
