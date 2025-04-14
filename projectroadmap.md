@@ -1,12 +1,12 @@
 Sprint 1:
-Create my read.me document
-Join the ksu US github
-Find a related repository and try to run it
+- [x] Create my read.me document
+- [x] Join the ksu US github
+- [x] Find a related repository and try to run it
 
 Sprint 2:
-Create the first version of my code
-Test the first version of my code!
-Make the first edits to my code
+- [x] Create the first version of my code
+- [x] Test the first version of my code!
+- [x] Make the first edits to my code
 
 Sprint 3:
 Put the final touches on my code
